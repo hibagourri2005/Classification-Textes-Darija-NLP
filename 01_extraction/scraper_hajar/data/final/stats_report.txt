@@ -1,0 +1,54 @@
+============================================================
+RAPPORT DATASET DARIJA — FUSION COMPLÈTE
+============================================================
+Total textes          : 123717
+Textes uniques        : 123717
+Longueur moy. (chars) : 73.8
+Longueur med. (chars) : 43.0
+
+--- Par domaine ---
+  food                 :  39019 (31.5%)
+  entertainment        :  35433 (28.6%)
+  religion             :  16438 (13.3%)
+  business             :   8760 (7.1%)
+  politics             :   8552 (6.9%)
+  sports               :   8074 (6.5%)
+  miscill              :   4434 (3.6%)
+  medical              :   3007 (2.4%)
+
+--- Par type de source ---
+  youtube_comment                : 123717 (100.0%)
+
+--- Par chaîne ---
+  Cuisine Tima                        :  11845
+  Cuisine Halima Filali               :  11243
+  Simo Sedraty                        :  10918
+  BIMO                                :   9531
+  Aymen Bousselham                    :   7560
+  Oussama Ramzi                       :   7424
+  Simo Life Com                       :   5979
+  Simo Stars                          :   5768
+  Ingenieur Fitness                   :   5607
+  El Kamali                           :   4954
+  Islamologia                         :   4734
+  Moroccan Cuisine 2023               :   4611
+  Houda Fahmi                         :   3769
+  Hespress                            :   3053
+  Aji Tfham                           :   3047
+  Dr Farid Al Ansari                  :   2880
+  Elamri                              :   2771
+  Youssef Akalal                      :   2542
+  I3lam TV                            :   2529
+  Amine Aouni                         :   2434
+  Safira Attabkh                      :   1783
+  Medic-all                           :   1728
+  Chouf TV Maroc                      :   1381
+  Radio Sport Maroc                   :   1286
+  Anas02                              :   1179
+  Al Hilali Mustapha                  :   1099
+  Sehtima                             :    914
+  Younes Ftaite                       :    542
+  Dr Abderrahim Znt                   :    365
+  Ounacer Hassan                      :    163
+  Abdo Nobil                          :     76
+  Federation Royale Marocaine         :      2

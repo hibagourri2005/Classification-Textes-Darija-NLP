@@ -1,0 +1,280 @@
+# Configuration — Scraper Darija (100% gratuit, yt-dlp)
+# Mode RAPIDE : optimisé pour finir en 2-3 jours
+
+domains:
+
+  religion:
+    target_texts: 12500
+    channels:
+      - name: "Al Hilali Mustapha"
+        url: "https://www.youtube.com/@alhilalimustapha"
+        handle: "alhilalimustapha"
+        max_videos: 100
+        max_comments_per_video: 150
+        max_transcript_videos: 20
+
+      - name: "El Kamali"
+        url: "https://www.youtube.com/@elkamali"
+        handle: "elkamali"
+        max_videos: 100
+        max_comments_per_video: 150
+        max_transcript_videos: 20
+
+      - name: "Dr Farid Al Ansari"
+        url: "https://www.youtube.com/@dr_farid_al_ansari"
+        handle: "dr_farid_al_ansari"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Islamologia"
+        url: "https://www.youtube.com/@islamologia1"
+        handle: "islamologia1"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Elamri"
+        url: "https://www.youtube.com/@elamri.page.officielle"
+        handle: "elamri"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+  food:
+    target_texts: 12500
+    channels:
+      - name: "Cuisine Halima Filali"
+        url: "https://www.youtube.com/@cuisinehalimafilali"
+        handle: "cuisinehalimafilali"
+        max_videos: 100
+        max_comments_per_video: 150
+        max_transcript_videos: 20
+
+      - name: "Cuisine Tima"
+        url: "https://www.youtube.com/@cuisineTima"
+        handle: "cuisineTima"
+        max_videos: 100
+        max_comments_per_video: 150
+        max_transcript_videos: 20
+
+      - name: "Simo Stars"
+        url: "https://www.youtube.com/@simo-stars"
+        handle: "simo-stars"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Moroccan Cuisine 2023"
+        url: "https://www.youtube.com/@Moroccancuisine2023"
+        handle: "Moroccancuisine2023"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Houda Fahmi"
+        url: "https://www.youtube.com/@houdafahmi"
+        handle: "houdafahmi"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Safira Attabkh"
+        url: "https://www.youtube.com/@%D8%B3%D9%81%D9%8A%D8%B1%D8%A9%D8%A7%D9%84%D8%B7%D8%A8%D8%AE%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A"
+        handle: "safira_tabkh"
+        max_videos: 60
+        max_comments_per_video: 80
+        max_transcript_videos: 10
+
+  entertainment:
+    target_texts: 12500
+    channels:
+      - name: "Simo Sedraty"
+        url: "https://www.youtube.com/@SimoSedraty"
+        handle: "SimoSedraty"
+        max_videos: 100
+        max_comments_per_video: 200
+        max_transcript_videos: 20
+
+      - name: "Bahae Sanari"
+        url: "https://www.youtube.com/@BahaeSanari"
+        handle: "BahaeSanari"
+        max_videos: 100
+        max_comments_per_video: 200
+        max_transcript_videos: 20
+
+      - name: "Oussama Ramzi"
+        url: "https://www.youtube.com/@OussamaRamzi"
+        handle: "OussamaRamzi"
+        max_videos: 80
+        max_comments_per_video: 150
+        max_transcript_videos: 15
+
+      - name: "Aymen Bousselham"
+        url: "https://www.youtube.com/@aymen.bousselham"
+        handle: "aymen.bousselham"
+        max_videos: 80
+        max_comments_per_video: 150
+        max_transcript_videos: 15
+
+      - name: "BIMO"
+        url: "https://www.youtube.com/@BIMO1"
+        handle: "BIMO1"
+        max_videos: 80
+        max_comments_per_video: 150
+        max_transcript_videos: 15
+
+  miscill:
+    target_texts: 12500
+    channels:
+      - name: "Hespress"
+        url: "https://www.youtube.com/@hespress"
+        handle: "hespress"
+        max_videos: 150
+        max_comments_per_video: 200
+        max_transcript_videos: 25
+
+      - name: "Chouf TV Maroc"
+        url: "https://www.youtube.com/@chouftv-maroc"
+        handle: "chouftv-maroc"
+        max_videos: 150
+        max_comments_per_video: 200
+        max_transcript_videos: 25
+
+  # -----------------------------------------------------------------------
+  # NOUVEAUX DOMAINES
+  # -----------------------------------------------------------------------
+
+  medical:
+    target_texts: 12500
+    channels:
+      - name: "Dr Abderrahim Znt"
+        url: "https://www.youtube.com/@Dr.abderrahimznt"
+        handle: "Dr.abderrahimznt"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Dr Mouad"
+        url: "https://www.youtube.com/@DrMouad"
+        handle: "DrMouad"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Sehtima"
+        url: "https://www.youtube.com/@sehtima"
+        handle: "sehtima"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Medic-all"
+        url: "https://www.youtube.com/@Medic-all"
+        handle: "Medic-all"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+  business:
+    target_texts: 12500
+    channels:
+      - name: "Youssef Akalal"
+        url: "https://www.youtube.com/@YoussefAkalal7"
+        handle: "YoussefAkalal7"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Simo Life Com"
+        url: "https://www.youtube.com/@SimoLifeCom"
+        handle: "SimoLifeCom"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Ounacer Hassan"
+        url: "https://www.youtube.com/@Ounacerhassan"
+        handle: "Ounacerhassan"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Abdo Nobil"
+        url: "https://www.youtube.com/@abdonobil"
+        handle: "abdonobil"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+  sports:
+    target_texts: 12500
+    channels:
+      - name: "Ingenieur Fitness"
+        url: "https://www.youtube.com/@ingenieur.fitness"
+        handle: "ingenieur.fitness"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Federation Royale Marocaine"
+        url: "https://www.youtube.com/@federationroyalemarocained3087"
+        handle: "federationroyalemarocained3087"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Radio Sport Maroc"
+        url: "https://www.youtube.com/@RadioSportMaroc"
+        handle: "RadioSportMaroc"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Anas02"
+        url: "https://www.youtube.com/@anas02"
+        handle: "anas02"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+  politics:
+    target_texts: 12500
+    channels:
+      - name: "I3lam TV"
+        url: "https://www.youtube.com/@i3lamtvcom"
+        handle: "i3lamtvcom"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Younes Ftaite"
+        url: "https://www.youtube.com/@younesftaite2917"
+        handle: "younesftaite2917"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Aji Tfham"
+        url: "https://www.youtube.com/@AjiTfham"
+        handle: "AjiTfham"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+      - name: "Amine Aouni"
+        url: "https://www.youtube.com/@amineaouni"
+        handle: "amineaouni"
+        max_videos: 80
+        max_comments_per_video: 100
+        max_transcript_videos: 15
+
+# -----------------------------------------------------------------------
+# Paramètres globaux
+# -----------------------------------------------------------------------
+settings:
+  sleep_between_requests: 1.0
+  sleep_between_channels: 2
+  min_text_length: 10
+  max_text_length: 500
+  max_workers: 3
