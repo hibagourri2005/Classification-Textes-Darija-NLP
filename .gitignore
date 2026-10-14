@@ -1,0 +1,35 @@
+# --- Secrets (ne jamais versionner) ---
+.env
+*.session
+session_*
+
+# --- Python / Jupyter / OS ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs, polices téléchargées, artefacts régénérables ---
+*.log
+*.ttf
+*.npy
+wandb/
+04_modelisation/wandb/
+
+# --- Données volumineuses (> ~15 Mo) : voir docs/DONNEES.md ---
+01_extraction/scraper_hajar/data/final/dataset_final.csv
+01_extraction/scraper_hajar/data/final/dataset_final.json
+01_extraction/scraper_hajar/data/merged/dataset_merged.csv
+01_extraction/scraper_hajar/data/merged/dataset_merged.json
+01_extraction/scraper_hajar/data/partner/youtube_raw.csv
+01_extraction/scraper_hiba/data/raw/youtube_raw.json
+02_nettoyage_pretraitement/nettoyage/data/processed/darija_clean.csv
+02_nettoyage_pretraitement/nettoyage/data/processed/darija_clean.json
+02_nettoyage_pretraitement/pre_traitement/data/processing/dataset_rest.csv
+03_labelisation/etape2_preannotation_llm/llm_batches/
+03_labelisation/etape2_preannotation_llm/Gemini_Chats_Export/
