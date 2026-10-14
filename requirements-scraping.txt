@@ -1,0 +1,10 @@
+# Étape 1 (extraction) : scrapers YouTube / Instagram
+yt-dlp>=2024.4.9
+youtube-transcript-api==0.6.2
+youtube-comment-downloader
+instaloader
+requests
+python-dotenv
+pandas>=2.0
+pyyaml==6.0.1
+tqdm==4.66.4
