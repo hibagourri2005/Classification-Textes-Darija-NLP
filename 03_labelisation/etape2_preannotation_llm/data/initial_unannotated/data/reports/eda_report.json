@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "fichier": "dataset_25k_cleaned.csv",
+    "date_eda": "2026-04-06 10:24",
+    "total_textes": 25001,
+    "periode": {
+      "debut": "2015-03-10",
+      "fin": "2026-03-09"
+    }
+  },
+  "distribution_domaines": {
+    "entertainment": 4700,
+    "food": 4500,
+    "business": 4458,
+    "sports": 4026,
+    "politics": 3145,
+    "religion": 1518,
+    "miscill": 1465,
+    "medical": 1189
+  },
+  "distribution_types": {
+    "darija_arabic": 15517,
+    "darija_latin": 9276,
+    "darija_mixed": 208
+  },
+  "distribution_scripts": {
+    "arabic": 14707,
+    "latin": 8767,
+    "other": 1108,
+    "mixed": 419
+  },
+  "statistiques_longueur": {
+    "count": 25001.0,
+    "mean": 12.76,
+    "std": 15.7,
+    "min": 1.0,
+    "25%": 5.0,
+    "50%": 8.0,
+    "75%": 14.0,
+    "max": 640.0
+  },
+  "statistiques_confiance": {
+    "count": 25001.0,
+    "mean": 0.403,
+    "std": 0.2026,
+    "min": 0.0526,
+    "25%": 0.25,
+    "50%": 0.3556,
+    "75%": 0.55,
+    "max": 1.0
+  },
+  "linguistique": {
+    "pct_arabizi": 31.76,
+    "pct_codeswitching": 2.12,
+    "pct_textes_courts": 27.55,
+    "pct_textes_longs": 2.37
+  },
+  "top5_chaines": {
+    "Ingenieur Fitness": 3236,
+    "Simo Life Com": 3007,
+    "Simo Sedraty": 1561,
+    "Cuisine Halima Filali": 1522,
+    "BIMO": 1458
+  },
+  "scores_moyens_par_domaine": {
+    "darija_lat_score": {
+      "business": 0.1169,
+      "entertainment": 0.0825,
+      "food": 0.0328,
+      "medical": 0.0996,
+      "miscill": 0.0257,
+      "politics": 0.0633,
+      "religion": 0.0443,
+      "sports": 0.1124
+    },
+    "darija_ara_score": {
+      "business": 0.0757,
+      "entertainment": 0.1144,
+      "food": 0.1503,
+      "medical": 0.0924,
+      "miscill": 0.1344,
+      "politics": 0.1162,
+      "religion": 0.1111,
+      "sports": 0.0708
+    },
+    "msa_score": {
+      "business": 0.0006,
+      "entertainment": 0.0002,
+      "food": 0.0003,
+      "medical": 0.0003,
+      "miscill": 0.0035,
+      "politics": 0.0042,
+      "religion": 0.0025,
+      "sports": 0.001
+    },
+    "det_confidence": {
+      "business": 0.4066,
+      "entertainment": 0.4336,
+      "food": 0.3833,
+      "medical": 0.3975,
+      "miscill": 0.3913,
+      "politics": 0.3898,
+      "religion": 0.3716,
+      "sports": 0.4134
+    }
+  }
+}

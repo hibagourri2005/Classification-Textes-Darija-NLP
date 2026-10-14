@@ -1,0 +1,62 @@
+[
+  {
+    "id": "darija_005429",
+    "text_normalized": "شكرا لك اخي",
+    "domain": "business",
+    "label": null
+  },
+  {
+    "id": "darija_046597",
+    "text_normalized": "الله يعطيك الصحة اختي",
+    "domain": "food",
+    "label": null
+  },
+  {
+    "id": "darija_064715",
+    "text_normalized": "عفاك اينا كريمه سخووونة واش عادي هولالا ولا كريمة طبخ عفااااك جوبيني",
+    "domain": "food",
+    "label": null
+  },
+  {
+    "id": "darija_078118",
+    "text_normalized": "الله يعطيك الصحة اخويا",
+    "domain": "food",
+    "label": null
+  },
+  {
+    "id": "darija_084026",
+    "text_normalized": "شكرا لك استاذ",
+    "domain": "medical",
+    "label": null
+  },
+  {
+    "id": "darija_084350",
+    "text_normalized": "شكرا دكتور",
+    "domain": "medical",
+    "label": null
+  },
+  {
+    "id": "darija_088476",
+    "text_normalized": "جمعو علينا الاوبئة",
+    "domain": "miscill",
+    "label": null
+  },
+  {
+    "id": "darija_115925",
+    "text_normalized": "شنو اسم القناة ديالو",
+    "domain": "sports",
+    "label": null
+  },
+  {
+    "id": "darija_119637",
+    "text_normalized": "elach kaywldohon whoma 3arfin rahom fharb",
+    "domain": "sports",
+    "label": null
+  },
+  {
+    "id": "darija_120653",
+    "text_normalized": "السلام اخي لي بغا يتواصل معاك",
+    "domain": "sports",
+    "label": null
+  }
+]
