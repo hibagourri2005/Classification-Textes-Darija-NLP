@@ -1,0 +1,19 @@
+# Étape 4 (modélisation) : versions relevées dans les runs wandb
+-r requirements.txt
+pandas==2.3.3
+numpy==2.2.5
+scikit-learn==1.7.1
+scipy==1.15.3
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.7.0
+wordcloud==1.9.6
+arabic-reshaper==3.0.1
+python-bidi==0.6.10
+nltk==3.9.4
+joblib==1.5.3
+torch==2.11.0
+transformers==5.6.2
+sentence-transformers==5.4.1
+wandb==0.27.0
+gensim>=4.3
